@@ -1,0 +1,17 @@
+*.iml
+.*
+target/**
+**/target/**
+*.bak
+**.bak
+**/*.iml
+logs/**
+**.jks
+**.yml
+*.png
+*.jpg
+**.yaml
+**/test/**
+*.pem
+**/logs/**
+**.log
